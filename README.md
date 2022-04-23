@@ -69,7 +69,7 @@ Open an issue and put the title & description. Now choose one of the tags (`bug`
 - Do not say anything rude or offensive
 <br>
 
-![image](https://user-images.githubusercontent.com/96026994/164914359-7378410e-bd4d-49a6-8b3a-a63d477c2cbc.png)
+![image](https://user-images.githubusercontent.com/96026994/164914520-58ffb509-ad4d-4f17-ab93-a553c6829ebb.png)(https://github.com/hoo12F/dev-bugs/issues/new)
 
 ## License & copyright
 Copyright (c) BMT
