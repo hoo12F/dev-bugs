@@ -68,7 +68,9 @@ Open an issue and put the title & description. Now choose one of the tags (`bug`
 - Make it descriptive
 - Do not say anything rude or offensive
 <br>
+
 ![image](https://user-images.githubusercontent.com/96026994/164914359-7378410e-bd4d-49a6-8b3a-a63d477c2cbc.png)
+
 ## License & copyright
 Copyright (c) BMT
 <br>
