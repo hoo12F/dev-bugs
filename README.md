@@ -67,7 +67,7 @@ Open an issue and put the title & description. Now choose one of the tags (`bug`
 - Make sure people can understand your answer
 - Make it descriptive
 - Do not say anything rude or offensive
-
+<br>
 ## License & copyright
 Copyright (c) BMT
 <br>
